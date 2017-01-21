@@ -39,9 +39,9 @@ class CoursesPage extends React.Component {
         {this.props.courses.map(this.courseRow)}
 
         <h2>Add Course</h2>
-        <input 
+        <input
           type="text"
-          onChange={this.onTitleChange} 
+          onChange={this.onTitleChange}
           value={this.state.course.title}/>
 
         <input
