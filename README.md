@@ -1,7 +1,19 @@
 #Based on [Building Applications in React and Redux in ES6](https://www.pluralsight.com/courses/react-redux-react-router-es6)
 
 `npm install`
+
 `npm start -s`
+
+##TODO:
+
+1. Author administration.
+2. Delete course.
+3. Unsaved changes message.
+4. Client side validation.
+5. Handle 404's.
+6. Show # courses in Header
+7. Pagination.
+8. Sort Course table.
 
 ###Production Dependencies
 | **Dependency** | **Use** |
